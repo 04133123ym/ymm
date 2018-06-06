@@ -1,0 +1,4 @@
+1.安装完成之后，想要有可以json格式化的，把PluginManager.dll 文件夹copy到 Notepad++\plugins 安装目录的相应文件夹下
+这个时候就可以添加插件了。
+2.例子可以安装一下文档来：
+https://jingyan.baidu.com/article/f3e34a12a140cbf5ea653553.html
